@@ -1,7 +1,7 @@
 # Hi, I'm Abhay 👋  
 
-🌱 Exploring what fits for me in tech...  
-💻 Learning **Full Stack Development & AI**  
+
+💻 Learning **Full Stack Development **  
 📍 Based in **Siliguri, India**  
 
 ---
